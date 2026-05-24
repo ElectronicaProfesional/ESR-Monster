@@ -23,4 +23,4 @@ El **ESR Monster** es un medidor de resistencia serie equivalente (ESR) de alta 
 
 ---
 > [!TIP]
-> Puedes descargar los esquemáticos completos y el manual en PDF en la sección de **Releases** abajo.
+> Puedes descargar los esquemáticos completos y el manual en PDF en la sección de **Releases** arriba.
